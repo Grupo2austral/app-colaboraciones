@@ -1,0 +1,2 @@
+# app-colaboraciones
+App que sirve para arreglar colaboraciones entre emprendedores. 
