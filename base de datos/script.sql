@@ -14,6 +14,8 @@ DROP TABLE IF EXISTS suscripcion       CASCADE;
 DROP TABLE IF EXISTS plan              CASCADE;
 DROP TABLE IF EXISTS usuario           CASCADE;
 
+
+
 -- =====================================================================
 -- Maestro: USUARIO / PLAN / SUSCRIPCION / PERFIL
 -- =====================================================================
